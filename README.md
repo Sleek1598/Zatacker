@@ -4,8 +4,8 @@ bash script to help you , doing many penetration testing based on kali linux , h
 1. git clone https://github.com/Sleek1598/Zatacker.git
 2. cd Zatacker
 3. chmod +x setup.sh 
-4. run setup.sh 
-5. run script by ./ZT.sh 
+4. ./setup.sh 
+5. ./ZT.sh 
 6. enjoy 
 # Coded by 
 Lawrence amer 
